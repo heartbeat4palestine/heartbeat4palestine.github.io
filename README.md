@@ -1,1 +1,1 @@
-# heartbeat4palestine.github.io
+# heartbeat4palestine.io

@@ -10,28 +10,24 @@ Sa souveraineté nationale, sa reconnaissance internationale, ses réfugiés, so
 
 
 
-palestine
+                                                   palestine
 
 
 
 
 
-<video width="320" height="240" controls>
+                         <video width="320" height="240" controls>
   <source src="VID-20240320-WA0099.mov" type="video/mp4">
 </video>
 
+                               
+                                                     ![ref1]
 
 
 
 
 
-![ref1]
-
-
-
-
-
-![ref2]
+                                                      ![ref2]
 
 
 [ref1]: Flag_of_Palestine.svg.png

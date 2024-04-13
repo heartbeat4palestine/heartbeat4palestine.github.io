@@ -1,18 +1,18 @@
 # heartbeat4palestine
 # 
 # 
-
+![ref1]
 For more information contact: ABU OBAIDA.
-
+![ref2]
 
 #SALAM A LKHOUT 3WAXRKOM MBROUKA , LMOHIM MA TDIWX 3LYA 9ALT MAYDAR W SF .
 
 
+![](Aspose.Words.4ea36f2a-66e1-4a8c-9127-ceb5d14b8666.001.jpeg)
 
 
 
-
-                  l'État de Palestine (arabe : دولة فلسطين, Dawlat Filasṭīn), est un État souverain de jure (loi palestinienne). Située au Moyen-Orient, elle est présente sur les territoires palestiniens occupés et revendique Jérusalem-Est et l'entièreté de la Cisjordanie. Ses frontières sont, de facto et depuis 1994 (accords d'Oslo), celles des zones A et B de la Cisjordanie, gouvernée par l'Autorité palestinienne, et celles de la bande de Gaza, sous contrôle du Hamas depuis 2007 mais revendiquée par l'Autorité palestinienne. Sa capitale est de jure Jérusalem, cependant le siège du gouvernement palestinien se situe à Ramallah en raison de l'annexion de Jérusalem-Est par Israël.
+l'État de Palestine (arabe : دولة فلسطين, Dawlat Filasṭīn), est un État souverain de jure (loi palestinienne). Située au Moyen-Orient, elle est présente sur les territoires palestiniens occupés et revendique Jérusalem-Est et l'entièreté de la Cisjordanie. Ses frontières sont, de facto et depuis 1994 (accords d'Oslo), celles des zones A et B de la Cisjordanie, gouvernée par l'Autorité palestinienne, et celles de la bande de Gaza, sous contrôle du Hamas depuis 2007 mais revendiquée par l'Autorité palestinienne. Sa capitale est de jure Jérusalem, cependant le siège du gouvernement palestinien se situe à Ramallah en raison de l'annexion de Jérusalem-Est par Israël.
 
 Anciennement intégrée à l'Empire ottoman, puis passée sous mandat britannique après la Première guerre mondiale, elle émerge comme État indépendant à la suite de la guerre israélo-arabe de 1948-1949. La déclaration du 15 novembre 1988 de l'Organisation de libération de la Palestine en exil à Alger a été retenue par l'État de Palestine comme sa déclaration d'indépendance et acceptée comme telle par la Ligue arabe et l'Organisation de la coopération islamique. En 2011, la Palestine adhère à l'UNESCO. Le 29 novembre 2012, l'État de Palestine adhère à l'Organisation des Nations unies (ONU) en tant qu'État observateur non-membre.
 
@@ -36,12 +36,12 @@ Sa souveraineté nationale, sa reconnaissance internationale, ses réfugiés, so
                               
                               
                               
-![ref1]
-
-﻿![](Aspose.Words.4ea36f2a-66e1-4a8c-9127-ceb5d14b8666.001.jpeg)
 
 
-![](ref2)
+﻿
+
+
+
 
 
 [ref1]: Flag_of_Palestine.svg.png

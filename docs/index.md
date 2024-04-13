@@ -2,14 +2,11 @@
 # 
 # 
 
-For more information contact :
-#                                       ABU OBAIDA.
-# 
-# 
-# 
-#          SALAM A LKHOUT 3WAXRKOM MBROUKA , LMOHIM MA TDIWX 3LYA 9ALT MAYDAR W SF .
-# 
-# 
+For more information contact: ABU OBAIDA.
+
+
+#SALAM A LKHOUT 3WAXRKOM MBROUKA , LMOHIM MA TDIWX 3LYA 9ALT MAYDAR W SF .
+
 
 
 
@@ -21,7 +18,7 @@ Anciennement intégrée à l'Empire ottoman, puis passée sous mandat britanniqu
 
 Sa souveraineté nationale, sa reconnaissance internationale, ses réfugiés, son territoire et ses frontières, sa capitale même sont l'objet de conflits armés et de débats politiques. En 2017, l'État de Palestine est reconnu par 139 États (72 % des 193 États membres que compte l'Organisation des Nations unies), mais ne l'est pas par les pays d'Amérique du Nord, ainsi que la plupart de l'Europe de l'Ouest, notamment les pays du G7. 
 ﻿
-# 
+
 
 
 
@@ -32,18 +29,19 @@ Sa souveraineté nationale, sa reconnaissance internationale, ses réfugiés, so
 
 
 
-       <video width="320" height="240" controls>
+<video width="320" height="240" controls>
   <source src="VID-20240320-WA0099.mov" type="video/mp4">
 </video>
 
-                               
-       ![ref1]
+                              
+                              
+                              
+![ref1]
+
+﻿![](Aspose.Words.4ea36f2a-66e1-4a8c-9127-ceb5d14b8666.001.jpeg)
 
 
-
-
-
-       ![ref2]
+![](ref2)
 
 
 [ref1]: Flag_of_Palestine.svg.png
